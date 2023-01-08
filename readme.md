@@ -1,7 +1,8 @@
 # Attempted exercise solutions from **The C Programming Language** by Ritchie and Kernighan
 
 ## Exercises 1.6-1.10
-## Exercises 1.12-1.19
+## Exercises 1.12-1.21
 
 To input EOF in st or GNOME terminal: ctrl-d
+
 To input backspace in st or GNOME terminal: ctrl-h
